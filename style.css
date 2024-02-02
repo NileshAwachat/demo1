@@ -1,0 +1,15 @@
+custombold {
+  font-weight: bold;
+}
+customitalic {
+  font-style: italic;
+}
+customsub {
+  vertical-align: sub;
+}
+customsup {
+  vertical-align: super;
+}
+customdel{
+   font-style: del;
+}
